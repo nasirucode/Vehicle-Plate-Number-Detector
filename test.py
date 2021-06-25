@@ -11,7 +11,8 @@
 # print(camera_list)
 
 # camera = cv2.VideoCapture(index)
-
+# camera  = cv2.VideoCapture(0)
+# camera  = cv2.VideoCapture()
 import cv2
 import sys
  
